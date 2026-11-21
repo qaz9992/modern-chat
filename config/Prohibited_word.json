@@ -7,8 +7,8 @@
         "\u654f\u611f\u8bcd1",
         "\u654f\u611f\u8bcd2"
     ],
-    "max_warnings_per_day": 20,
-    "ban_time": 24,
+    "max_warnings_per_day": 30,
+    "ban_time": 3,
     "max_ban_time": 30,
     "permanent_ban_days": 365
 }
